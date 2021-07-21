@@ -10,4 +10,4 @@ in this repository you will find
 
 Keep in mind that the survey has been conducted in german language.
 
-Make sure to familiarise yourself with the general information provided in the excel spreadsheet, especially the licece (Creative Commons Licence CC BY-NC-SA 4.0).
+Make sure to familiarise yourself with the general information provided in the excel spreadsheet, especially the licence (Creative Commons Licence CC BY-NC-SA 4.0).
